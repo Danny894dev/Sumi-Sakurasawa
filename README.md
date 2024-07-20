@@ -1,4 +1,4 @@
-<h1 align="center">‧ 🍭 Sumi Sakurasawa - MD 🍭 ‧
+<h1 align="center">‧ suggar azuna
 </p>
 <p>
         <img src= "https://tinyurl.com/258rd289">
@@ -117,9 +117,10 @@ npm start
 - [x] Chatbot (simsimi)
 - [x] Crear sticker de image/video/gif/url
 - [x] SubBot (Jadibot)
-- [ ] Juego RPG
+- [x] Juego RPG
 - [x] Descarga de música y video de YT
 - [ ] Otros
+
 
 ---------
 
